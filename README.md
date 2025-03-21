@@ -46,7 +46,7 @@ This module will help you remove this Protection
 this will output when processed by the module
 
 ```
-Never_Stop_2_Learn_Please_leave_a_star_on_the_repo
+Never_Stop_2_Learn
 ```
 
 **Please, If you like the project don't forget to leave a Star ⭐ ! it motivates me to keep going and possibly to share more things i wrote**
@@ -72,7 +72,7 @@ pip install CloudFlare-EOF
     import CloudFlare-EOF
 
     html = '''<span class="__cf_email__" data-cfemail="e4aa81928196bbb7908b94bbd6bba88185968abbb48881859781bb8881859281bb85bb97908596bb8b8abb908c81bb9681948b">[email protected]</span>'''
-    print(CloudFlare-EOF.decode_cf_email(html)) # Returns "Never_Stop_2_Learn_Please_leave_a_star_on_the_repo"
+    print(CloudFlare-EOF.decode_cf_email(html)) # Returns "Never_Stop_2_Learn"
     ```
 
 3. Alles gut ! Leave a star ⭐ if you like this project!
