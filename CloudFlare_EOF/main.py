@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 def decode_cf_email(html):
     """
     cf_email Obfuscation Fucker
-    Made by Elxss with Love :3
     You Picked the wrong house, Fool !
     """
     try:
